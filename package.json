@@ -1,0 +1,16 @@
+{
+  "name": "2018-okcoders-week4",
+  "version": "1.0.0",
+  "description": "Very basic html node application",
+  "main": "index.html",
+  "scripts": {
+    "browserify": "browserify index.js -o bundle.js"
+  },
+  "author": "Justin Carter",
+  "license": "ISC",
+  "dependencies": {
+    "browserify": "^16.1.1",
+    "jquery": "^3.3.1",
+    "lodash": "^4.17.5"
+  }
+}
